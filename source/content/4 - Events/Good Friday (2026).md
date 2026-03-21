@@ -1,5 +1,5 @@
 ---
-event_date:
+event_date: 2026-04-03
 tags:
 ---
 Liturgy: [[Good Friday]]
