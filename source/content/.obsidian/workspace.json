@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - Liturgies/Holy Thursday.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Holy Thursday"
+              "title": "index"
             }
           }
         ]
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "8 - Liturgies/Holy Thursday.md"
+                "file": "index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Holy Thursday"
+              "title": "File properties for index"
             }
           }
         ],
@@ -206,20 +206,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "326e330c6490f59d",
   "lastOpenFiles": [
     "1 - Events/index.md",
-    "3 - Chants/index.md",
-    "3 - Chants/Ave Regina Caelorum (Simple Chant).md",
+    "index.md",
+    "Templates/index.md",
+    "8 - Liturgies/index.md",
+    "7 - Topics/index.md",
     "6 - Recordings/index.md",
     "5 - Mass Settings/index.md",
     "4 - Mass Propers/index.md",
-    "8 - Liturgies/index.md",
-    "1 - Events/Tenebrae (2026).md",
+    "3 - Chants/index.md",
     "2 - Songs/index.md",
-    "index.md",
-    "Templates/Templates.md",
-    "7 - Topics/index.md",
+    "8 - Liturgies/Holy Thursday.md",
+    "3 - Chants/Ave Regina Caelorum (Simple Chant).md",
+    "1 - Events/Tenebrae (2026).md",
     "New Text Document.txt",
     "1 - Events/Palm Sunday (2026).md",
     "1 - Events/Holy Thursday (2026).md",
