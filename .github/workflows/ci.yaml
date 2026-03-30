@@ -7,8 +7,7 @@ on:
 
 jobs:
   build-and-test:
-    # runs-on: ubuntu-latest
-    runs-on: node:24
+    runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
@@ -49,8 +48,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: node:24
-    # runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
