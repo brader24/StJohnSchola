@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Events/index.md",
+                "file": "1 - Events/Tenebrae (2026).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Tenebrae (2026)"
             }
           }
         ]
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1 - Events/index.md"
+                "file": "1 - Events/Tenebrae (2026).md"
               },
               "icon": "lucide-info",
-              "title": "File properties for index"
+              "title": "File properties for Tenebrae (2026)"
             }
           }
         ],
@@ -192,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,13 +209,25 @@
   },
   "active": "326e330c6490f59d",
   "lastOpenFiles": [
-    "3 - Chants/index.md",
+    "2 - Songs/Ne Irascaris Domine (Byrd).md",
+    "1 - Events/Tenebrae (2026).md",
+    "2 - Songs/Jesu the Very Thought is Sweet (Wood).md",
+    "2 - Songs/Jesu Rex Admirabilis (Palestrina).md",
+    "2 - Songs/O Quam Suavis (Vivanco).md",
+    "2 - Songs/O Jesu Christe (Mantua).md",
+    "2 - Songs/Crux Fidelis (Palestrina).md",
+    "2 - Songs/Call to Remembrance (Farrant).md",
+    "2 - Songs/Ave Verum Corpus (Byrd).md",
+    "2 - Songs/Ave Verum (Elgar).md",
+    "6 - Recordings/index.md",
+    "4 - Mass Propers/Misereris Omnium (Introit).md",
+    "2 - Songs/Tenebrae Factae Sunt (Ingegneri).md",
     "1 - Events/index.md",
+    "3 - Chants/index.md",
     "1 - Events/Holy Thursday (2026).md",
     "1 - Events/Good Friday (2026).md",
     "1 - Events/Ash Wednesday (2026).md",
     "5 - Mass Settings/Mass XVII.md",
-    "6 - Recordings/index.md",
     "2 - Songs/Pueri Hebraeorum (Palestrina).md",
     "index.md",
     "3 - Chants/Reproaches (Chant).md",
@@ -222,18 +235,6 @@
     "3 - Chants/Ave Regina Caelorum (Simple Chant).md",
     "3 - Chants/Attende Domine (Chant).md",
     "2 - Songs/Tua Jesu Dilectio (Palestrina).md",
-    "2 - Songs/Tu Pauperim (Josquin).md",
-    "2 - Songs/Tenebrae Factae Sunt (Ingegneri).md",
-    "2 - Songs/O Quam Suavis (Vivanco).md",
-    "2 - Songs/O Jesu Christe (Mantua).md",
-    "2 - Songs/Ne Irascaris Domine (Byrd).md",
-    "2 - Songs/Jesus My Love (Benedictines of Mary).md",
-    "2 - Songs/Jesu the Very Thought is Sweet (Wood).md",
-    "2 - Songs/Jesu Rex Admirabilis (Palestrina).md",
-    "2 - Songs/index.md",
-    "2 - Songs/God of Mercy and Compassion (Vaughn).md",
-    "2 - Songs/Crux Fidelis (Palestrina).md",
-    "2 - Songs/Ave Verum (Elgar).md",
     "New Text Document.txt",
     "category-folder"
   ]

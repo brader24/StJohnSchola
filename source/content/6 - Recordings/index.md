@@ -1,6 +1,9 @@
 ---
 title: 6 - Audio Recordings
 ---
+Sources:
+[PBM Resources A | Church Music Association of America](https://churchmusicassociation.org/pbm1/)
+
 # The Reproaches
 [[The Reproaches 0 straight through, no repeats.m4a]]  
 [[The Reproaches 1 My people what have I done to you.m4a]]  
