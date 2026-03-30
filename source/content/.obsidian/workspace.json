@@ -4,34 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "0dfa6c94c6fa212a",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "326e330c6490f59d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "source/content/.obsidian/app.json",
-                "staged": false
+                "file": "8 - Liturgies/Holy Thursday.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (app.json)"
+              "icon": "lucide-file",
+              "title": "Holy Thursday"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 404.5
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -104,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "8 - Liturgies/Holy Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Holy Thursday"
             }
           },
           {
@@ -122,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "8 - Liturgies/Holy Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Holy Thursday"
             }
           },
           {
@@ -150,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "8 - Liturgies/Holy Thursday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Holy Thursday"
             }
           },
           {
@@ -181,9 +174,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8674859b5381dd6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "8 - Liturgies/Holy Thursday.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Holy Thursday"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -201,24 +206,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "1 - Templates/index.md",
-    "2 - Topics/index.md",
-    "3 - Liturgies/index.md",
-    "4 - Events/index.md",
+    "1 - Events/index.md",
+    "3 - Chants/index.md",
+    "3 - Chants/Ave Regina Caelorum (Simple Chant).md",
+    "6 - Recordings/index.md",
     "5 - Mass Settings/index.md",
-    "6 - Songs/index.md",
-    "7 - Chants/index.md",
-    "8 - Mass Propers/index.md",
-    "Recordings/index.md",
+    "4 - Mass Propers/index.md",
+    "8 - Liturgies/index.md",
+    "1 - Events/Tenebrae (2026).md",
+    "2 - Songs/index.md",
     "index.md",
+    "Templates/Templates.md",
+    "7 - Topics/index.md",
     "New Text Document.txt",
-    "4 - Events/Tenebrae (2026).md",
-    "4 - Events/Palm Sunday (2026).md",
-    "4 - Events/Holy Thursday (2026).md",
-    "4 - Events/Ash Wednesday (2026).md",
-    "4 - Events/Good Friday (2026).md",
+    "1 - Events/Palm Sunday (2026).md",
+    "1 - Events/Holy Thursday (2026).md",
+    "1 - Events/Ash Wednesday (2026).md",
+    "1 - Events/Good Friday (2026).md",
     "category-folder/index.md",
     "category-folder/Some note.md",
     "category-folder"
