@@ -26,4 +26,5 @@ in nomine Domini.                   in the name of the Lord!
 ## Recordings
 [YouTube - Cardinall's Musick (With score)](https://youtu.be/VTGeSIPjzpc?si=0NkeUJbSzmV2qoCR)  
 # Resources
-[CPDL](https://www.cpdl.org/wiki/index.php/Pueri_Hebraeorum_(Giovanni_Pierluigi_da_Palestrina)
+[CPDL](https://www.cpdl.org/wiki/index.php/Pueri_Hebraeorum_%28Giovanni_Pierluigi_da_Palestrina%29)
+

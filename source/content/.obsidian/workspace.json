@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "1 - Events/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -181,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "1 - Events/index.md"
               },
               "icon": "lucide-info",
               "title": "File properties for index"
@@ -208,15 +208,22 @@
   },
   "active": "326e330c6490f59d",
   "lastOpenFiles": [
+    "3 - Chants/index.md",
+    "1 - Events/index.md",
+    "1 - Events/Holy Thursday (2026).md",
+    "1 - Events/Good Friday (2026).md",
+    "1 - Events/Ash Wednesday (2026).md",
+    "5 - Mass Settings/Mass XVII.md",
+    "6 - Recordings/index.md",
+    "2 - Songs/Pueri Hebraeorum (Palestrina).md",
+    "index.md",
     "3 - Chants/Reproaches (Chant).md",
     "3 - Chants/Parce Domine (Chant).md",
-    "3 - Chants/index.md",
     "3 - Chants/Ave Regina Caelorum (Simple Chant).md",
     "3 - Chants/Attende Domine (Chant).md",
     "2 - Songs/Tua Jesu Dilectio (Palestrina).md",
     "2 - Songs/Tu Pauperim (Josquin).md",
     "2 - Songs/Tenebrae Factae Sunt (Ingegneri).md",
-    "2 - Songs/Pueri Hebraeorum (Palestrina).md",
     "2 - Songs/O Quam Suavis (Vivanco).md",
     "2 - Songs/O Jesu Christe (Mantua).md",
     "2 - Songs/Ne Irascaris Domine (Byrd).md",
@@ -227,13 +234,6 @@
     "2 - Songs/God of Mercy and Compassion (Vaughn).md",
     "2 - Songs/Crux Fidelis (Palestrina).md",
     "2 - Songs/Ave Verum (Elgar).md",
-    "2 - Songs/Ave Verum Corpus (Byrd).md",
-    "2 - Songs/Call to Remembrance (Farrant).md",
-    "index.md",
-    "1 - Events/index.md",
-    "Templates/index.md",
-    "8 - Liturgies/index.md",
-    "7 - Topics/index.md",
     "New Text Document.txt",
     "category-folder"
   ]
