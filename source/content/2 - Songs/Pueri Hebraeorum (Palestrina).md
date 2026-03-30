@@ -8,7 +8,7 @@ Appropriate for Liturgies:
 # Pueri Hebraeorum (Palestrina)
 
 ## Lyrics
-[CPDL - Latin with Translation](https://www.cpdl.org/wiki/index.php/Pueri_Hebraeorum,_portantes)
+[CPDL - Latin with Translation](https://www.cpdl.org/wiki/index.php/Pueri_Hebraeorum,_portantes)  
 ```
 Pueri Hebraeorum,                   The Hebrew children
 portantes ramos olivarum,           bearing olive branches,
@@ -24,6 +24,6 @@ benedictus qui venit                Blessed is he that cometh
 in nomine Domini.                   in the name of the Lord!
 ```
 ## Recordings
-[YouTube - Cardinall's Musick (With score)](https://youtu.be/VTGeSIPjzpc?si=0NkeUJbSzmV2qoCR)
+[YouTube - Cardinall's Musick (With score)](https://youtu.be/VTGeSIPjzpc?si=0NkeUJbSzmV2qoCR)  
 # Resources
 [CPDL](https://www.cpdl.org/wiki/index.php/Pueri_Hebraeorum_(Giovanni_Pierluigi_da_Palestrina)
